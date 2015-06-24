@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="1.6" type="plugin" group="system">
+	<name>System - GK Open Graph Article Parameters</name>
+	<author>www.gavick.com</author>
+	<creationDate>01 May 2010</creationDate>
+	<copyright>All Rights Reserved.</copyright>
+	<license>license GNU/GPLv3 http://www.gnu.org/licenses/gpl-3.0.html</license>
+	<authorEmail>test@gavick.com</authorEmail>
+	<authorUrl>http://www.gavick.com</authorUrl>
+	<version>1.0</version>
+	<description>Plugin which adds additional article options for GavickPro templates</description>	
+	<files>
+			<filename plugin="plg_gk_opengraph">plg_gk_opengraph.php</filename>
+			<filename plugin="plg_gk_opengraph">parameters.xml</filename>
+	</files>	
+</extension>
