@@ -28,7 +28,7 @@
       <file leaf-file-name="sub.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/components/com_acymailing/controllers/sub.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.375" vertical-offset="6006" max-vertical-offset="7620">
+            <state vertical-scroll-proportion="0.0" vertical-offset="6006" max-vertical-offset="7620">
               <caret line="409" column="0" selection-start-line="409" selection-start-column="0" selection-end-line="409" selection-end-column="0" />
               <folding>
                 <marker date="1435173643904" expanded="true" signature="1125:1225" placeholder="SELECT * FRO..#__modules..." />
@@ -54,7 +54,7 @@
       <file leaf-file-name="template.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/gk_simplicity/css/template.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.379311" vertical-offset="495" max-vertical-offset="14670">
+            <state vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="14670">
               <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="24" />
               <folding />
             </state>
@@ -64,7 +64,7 @@
       <file leaf-file-name="tablet.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/gk_simplicity/css/tablet.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.344828" vertical-offset="3660" max-vertical-offset="5700">
+            <state vertical-scroll-proportion="0.0" vertical-offset="3660" max-vertical-offset="5700">
               <caret line="264" column="0" selection-start-line="264" selection-start-column="0" selection-end-line="264" selection-end-column="21" />
               <folding />
             </state>
@@ -74,7 +74,7 @@
       <file leaf-file-name="small.tablet.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/gk_simplicity/css/small.tablet.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.344828" vertical-offset="630" max-vertical-offset="2520">
+            <state vertical-scroll-proportion="0.0" vertical-offset="630" max-vertical-offset="2520">
               <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="64" selection-end-column="1" />
               <folding />
             </state>
@@ -91,33 +91,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mobile.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="mobile.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/gk_simplicity/css/mobile.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.47448015" vertical-offset="5419" max-vertical-offset="7185">
+            <state vertical-scroll-proportion="-10.04" vertical-offset="5419" max-vertical-offset="7185">
               <caret line="378" column="14" selection-start-line="378" selection-start-column="14" selection-end-line="378" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="subscriber.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/administrator/components/com_acymailing/classes/subscriber.php">
+      <file leaf-file-name="default.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/gk_simplicity/layouts/default.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.1509433" vertical-offset="2922" max-vertical-offset="8760">
-              <caret line="213" column="22" selection-start-line="213" selection-start-column="13" selection-end-line="213" selection-end-column="22" />
-              <folding>
-                <marker date="1435173599940" expanded="true" signature="6345:6404" placeholder="SELECT subid..acymailing_table_subscriber_..." />
-                <marker date="1435173599940" expanded="true" signature="6579:6696" placeholder="SELECT * FRO..acymailing_table_subscriber_..." />
-                <marker date="1435173599940" expanded="true" signature="6856:6973" placeholder="SELECT * FRO..acymailing_table_subscriber_..." />
-                <marker date="1435173599940" expanded="true" signature="7139:7338" placeholder="SELECT b.*, ..acymailing_table_subscriber_..." />
-                <marker date="1435173599940" expanded="true" signature="7954:8008" placeholder="SELECT a.*, ..acymailing_table_list_..." />
-                <marker date="1435173599940" expanded="true" signature="8367:8439" placeholder="SELECT statu..acymailing_table_listsub_..." />
-                <marker date="1435173599940" expanded="true" signature="13115:13228" placeholder="SELECT * FRO..#__acymailing_subscriber..." />
-                <marker date="1435173599940" expanded="true" signature="13780:13929" placeholder="SELECT listi..#__acymailing_listsub..." />
-                <marker date="1435173599940" expanded="true" signature="19325:19411" placeholder="SELECT `list..." />
-                <marker date="1435173599940" expanded="true" signature="20557:20709" placeholder="SELECT * FRO..acymailing_table_subscriber_..." />
-              </folding>
+            <state vertical-scroll-proportion="0.5588235" vertical-offset="3360" max-vertical-offset="3870">
+              <caret line="251" column="8" selection-start-line="251" selection-start-column="8" selection-end-line="251" selection-end-column="8" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -125,7 +114,7 @@
       <file leaf-file-name="helper.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/administrator/components/com_acymailing/helpers/helper.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-66.0" vertical-offset="252" max-vertical-offset="14460">
+            <state vertical-scroll-proportion="0.0" vertical-offset="252" max-vertical-offset="14460">
               <caret line="250" column="29" selection-start-line="250" selection-start-column="28" selection-end-line="250" selection-end-column="29" />
               <folding>
                 <marker date="1434875702988" expanded="true" signature="4581:4748" placeholder="..." />
@@ -141,7 +130,7 @@
       <file leaf-file-name="mod_acymailing.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/modules/mod_acymailing/mod_acymailing.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-112.291664" vertical-offset="2045" max-vertical-offset="5055">
+            <state vertical-scroll-proportion="0.0" vertical-offset="2045" max-vertical-offset="5055">
               <caret line="316" column="28" selection-start-line="316" selection-start-column="28" selection-end-line="316" selection-end-column="28" />
               <folding>
                 <marker date="1434875713252" expanded="false" signature="5661:5670" placeholder="..." />
@@ -165,7 +154,6 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/configuration.php" />
-        <option value="$PROJECT_DIR$/templates/gk_simplicity/layouts/default.php" />
         <option value="$PROJECT_DIR$/administrator/components/com_acymailing/extensions/mod_acymailing/tmpl/tableless.php" />
         <option value="$PROJECT_DIR$/administrator/components/com_acymailing/extensions/mod_acymailing/tmpl/default.php" />
         <option value="$PROJECT_DIR$/modules/mod_acymailing/tmpl/tableless.php" />
@@ -177,6 +165,7 @@
         <option value="$PROJECT_DIR$/templates/gk_simplicity/css/tablet.css" />
         <option value="$PROJECT_DIR$/templates/gk_simplicity/css/small.tablet.css" />
         <option value="$PROJECT_DIR$/templates/gk_simplicity/css/mobile.css" />
+        <option value="$PROJECT_DIR$/templates/gk_simplicity/layouts/default.php" />
       </list>
     </option>
   </component>
@@ -218,6 +207,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -290,31 +280,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="moesto" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="moesto" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gk_simplicity" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -394,24 +361,24 @@
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2611068" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25720966" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24941543" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39903846" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39903846" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -465,242 +432,9 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/configuration.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="359" max-vertical-offset="990">
-          <caret line="60" column="1" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/gk_simplicity/layouts/default.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="3222" max-vertical-offset="3870">
-          <caret line="227" column="4" selection-start-line="227" selection-start-column="4" selection-end-line="227" selection-end-column="4" />
-          <folding>
-            <element signature="e#7#199#0#PHP" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/administrator/components/com_acymailing/extensions/mod_acymailing/tmpl/default.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1173" max-vertical-offset="3060">
-          <caret line="86" column="176" selection-start-line="86" selection-start-column="176" selection-end-line="86" selection-end-column="176" />
-          <folding>
-            <marker date="1435092235225" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1435092235225" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1435092235225" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1435092235225" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/administrator/components/com_acymailing/extensions/mod_acymailing/tmpl/tableless.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1152" max-vertical-offset="3345">
-          <caret line="84" column="132" selection-start-line="84" selection-start-column="132" selection-end-line="84" selection-end-column="132" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/mod_acymailing/tmpl/tableless.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1135" max-vertical-offset="3345">
-          <caret line="86" column="88" selection-start-line="86" selection-start-column="88" selection-end-line="86" selection-end-column="88" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/media/com_acymailing/js/acymailing_module.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6210">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/administrator/components/com_acymailing/extensions/plg_system_regacymailing/regacymailing.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="9565" max-vertical-offset="13470">
-          <caret line="646" column="27" selection-start-line="646" selection-start-column="27" selection-end-line="646" selection-end-column="27" />
-          <folding>
-            <marker date="1434875702984" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..#__rsform_registration..." />
-            <marker date="1434875702984" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1434875702984" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1434875702984" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1434875702984" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1434875702984" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1434875702984" expanded="true" signature="-1:-1" placeholder="SELECT id FR..#__users..." />
-            <marker date="1434875702984" expanded="true" signature="-1:-1" placeholder="UPDATE #__ac..." />
-            <marker date="1434875702984" expanded="true" signature="-1:-1" placeholder="UPDATE #__ac..." />
-            <marker date="1434875702984" expanded="true" signature="-1:-1" placeholder="UPDATE #__ac..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/configuration.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="359" max-vertical-offset="990">
-          <caret line="60" column="1" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/gk_simplicity/layouts/default.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3870">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#7#199#0#PHP" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/configuration.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="359" max-vertical-offset="990">
-          <caret line="60" column="1" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/gk_simplicity/layouts/default.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="3222" max-vertical-offset="3870">
-          <caret line="227" column="4" selection-start-line="227" selection-start-column="4" selection-end-line="227" selection-end-column="4" />
-          <folding>
-            <element signature="e#7#199#0#PHP" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/administrator/components/com_acymailing/extensions/plg_system_regacymailing/regacymailing.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="9565" max-vertical-offset="13470">
-          <caret line="646" column="27" selection-start-line="646" selection-start-column="27" selection-end-line="646" selection-end-column="27" />
-          <folding>
-            <marker date="1434875702984" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..#__rsform_registration..." />
-            <marker date="1434875702984" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1434875702984" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1434875702984" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1434875702984" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1434875702984" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1434875702984" expanded="true" signature="-1:-1" placeholder="SELECT id FR..#__users..." />
-            <marker date="1434875702984" expanded="true" signature="-1:-1" placeholder="UPDATE #__ac..." />
-            <marker date="1434875702984" expanded="true" signature="-1:-1" placeholder="UPDATE #__ac..." />
-            <marker date="1434875702984" expanded="true" signature="-1:-1" placeholder="UPDATE #__ac..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/administrator/components/com_acymailing/extensions/mod_acymailing/tmpl/default.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1173" max-vertical-offset="3060">
-          <caret line="86" column="176" selection-start-line="86" selection-start-column="176" selection-end-line="86" selection-end-column="176" />
-          <folding>
-            <marker date="1435092235225" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1435092235225" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1435092235225" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1435092235225" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/administrator/components/com_acymailing/extensions/mod_acymailing/tmpl/tableless.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1152" max-vertical-offset="3345">
-          <caret line="84" column="132" selection-start-line="84" selection-start-column="132" selection-end-line="84" selection-end-column="132" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/mod_acymailing/tmpl/tableless.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1135" max-vertical-offset="3345">
-          <caret line="86" column="88" selection-start-line="86" selection-start-column="88" selection-end-line="86" selection-end-column="88" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/media/com_acymailing/js/acymailing_module.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.344828" vertical-offset="0" max-vertical-offset="6240">
-          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/language/ru-RU/ru-RU.com_acymailing.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="527" max-vertical-offset="20325">
-          <caret line="43" column="18" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/administrator/components/com_acymailing/helpers/acyuser.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.625" vertical-offset="180" max-vertical-offset="3525">
-          <caret line="29" column="38" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
-          <folding>
-            <marker date="1435170740876" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..#__acymailing_subscriber..." />
-            <marker date="1435170740876" expanded="true" signature="-1:-1" placeholder="SELECT ug.id..#__usergroups..." />
-            <marker date="1435170740876" expanded="true" signature="-1:-1" placeholder="SELECT gid A..#__users..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/administrator/components/com_acymailing/classes/subscriber.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.1509433" vertical-offset="2922" max-vertical-offset="8760">
-          <caret line="213" column="22" selection-start-line="213" selection-start-column="13" selection-end-line="213" selection-end-column="22" />
-          <folding>
-            <marker date="1435173599940" expanded="true" signature="6345:6404" placeholder="SELECT subid..acymailing_table_subscriber_..." />
-            <marker date="1435173599940" expanded="true" signature="6579:6696" placeholder="SELECT * FRO..acymailing_table_subscriber_..." />
-            <marker date="1435173599940" expanded="true" signature="6856:6973" placeholder="SELECT * FRO..acymailing_table_subscriber_..." />
-            <marker date="1435173599940" expanded="true" signature="7139:7338" placeholder="SELECT b.*, ..acymailing_table_subscriber_..." />
-            <marker date="1435173599940" expanded="true" signature="7954:8008" placeholder="SELECT a.*, ..acymailing_table_list_..." />
-            <marker date="1435173599940" expanded="true" signature="8367:8439" placeholder="SELECT statu..acymailing_table_listsub_..." />
-            <marker date="1435173599940" expanded="true" signature="13115:13228" placeholder="SELECT * FRO..#__acymailing_subscriber..." />
-            <marker date="1435173599940" expanded="true" signature="13780:13929" placeholder="SELECT listi..#__acymailing_listsub..." />
-            <marker date="1435173599940" expanded="true" signature="19325:19411" placeholder="SELECT `list..." />
-            <marker date="1435173599940" expanded="true" signature="20557:20709" placeholder="SELECT * FRO..acymailing_table_subscriber_..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/administrator/components/com_acymailing/helpers/helper.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-66.0" vertical-offset="252" max-vertical-offset="14460">
-          <caret line="250" column="29" selection-start-line="250" selection-start-column="28" selection-end-line="250" selection-end-column="29" />
-          <folding>
-            <marker date="1434875702988" expanded="true" signature="4581:4748" placeholder="..." />
-            <marker date="1434875702988" expanded="true" signature="9534:9578" placeholder="..." />
-            <marker date="1434875702988" expanded="false" signature="12460:12475" placeholder="..." />
-            <marker date="1434875702988" expanded="false" signature="19407:19424" placeholder="..." />
-            <marker date="1434875702988" expanded="true" signature="31421:31433" placeholder="DELETE FROM ..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/mod_acymailing/mod_acymailing.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-112.291664" vertical-offset="2045" max-vertical-offset="5055">
-          <caret line="316" column="28" selection-start-line="316" selection-start-column="28" selection-end-line="316" selection-end-column="28" />
-          <folding>
-            <marker date="1434875713252" expanded="false" signature="5661:5670" placeholder="..." />
-            <marker date="1434875713252" expanded="true" signature="8765:8804" placeholder="..." />
-            <marker date="1434875713252" expanded="true" signature="9235:9337" placeholder="SELECT a.id,..#__content..." />
-            <marker date="1434875713252" expanded="true" signature="9972:10041" placeholder="SELECT a.id,..#__content..." />
-            <marker date="1434875713252" expanded="true" signature="11289:11301" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/components/com_acymailing/controllers/sub.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.375" vertical-offset="6006" max-vertical-offset="7620">
+        <state vertical-scroll-proportion="0.0" vertical-offset="6006" max-vertical-offset="7620">
           <caret line="409" column="0" selection-start-line="409" selection-start-column="0" selection-end-line="409" selection-end-column="0" />
           <folding>
             <marker date="1435173643904" expanded="true" signature="1125:1225" placeholder="SELECT * FRO..#__modules..." />
@@ -722,7 +456,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/gk_simplicity/css/template.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.379311" vertical-offset="495" max-vertical-offset="14670">
+        <state vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="14670">
           <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="24" />
           <folding />
         </state>
@@ -730,7 +464,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/gk_simplicity/css/tablet.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.344828" vertical-offset="3660" max-vertical-offset="5700">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3660" max-vertical-offset="5700">
           <caret line="264" column="0" selection-start-line="264" selection-start-column="0" selection-end-line="264" selection-end-column="21" />
           <folding />
         </state>
@@ -738,7 +472,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/gk_simplicity/css/small.tablet.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.344828" vertical-offset="630" max-vertical-offset="2520">
+        <state vertical-scroll-proportion="0.0" vertical-offset="630" max-vertical-offset="2520">
           <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="64" selection-end-column="1" />
           <folding />
         </state>
@@ -754,8 +488,298 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/gk_simplicity/css/mobile.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47448015" vertical-offset="5419" max-vertical-offset="7185">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7185">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_acymailing/classes/subscriber.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2922" max-vertical-offset="8760">
+          <caret line="213" column="22" selection-start-line="213" selection-start-column="13" selection-end-line="213" selection-end-column="22" />
+          <folding>
+            <marker date="1435173599940" expanded="true" signature="-1:-1" placeholder="SELECT subid..acymailing_table_subscriber_..." />
+            <marker date="1435173599940" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..acymailing_table_subscriber_..." />
+            <marker date="1435173599940" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..acymailing_table_subscriber_..." />
+            <marker date="1435173599940" expanded="true" signature="-1:-1" placeholder="SELECT b.*, ..acymailing_table_subscriber_..." />
+            <marker date="1435173599940" expanded="true" signature="-1:-1" placeholder="SELECT a.*, ..acymailing_table_list_..." />
+            <marker date="1435173599940" expanded="true" signature="-1:-1" placeholder="SELECT statu..acymailing_table_listsub_..." />
+            <marker date="1435173599940" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..#__acymailing_subscriber..." />
+            <marker date="1435173599940" expanded="true" signature="-1:-1" placeholder="SELECT listi..#__acymailing_listsub..." />
+            <marker date="1435173599940" expanded="true" signature="-1:-1" placeholder="SELECT `list..." />
+            <marker date="1435173599940" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..acymailing_table_subscriber_..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_acymailing/helpers/helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="252" max-vertical-offset="14460">
+          <caret line="250" column="29" selection-start-line="250" selection-start-column="28" selection-end-line="250" selection-end-column="29" />
+          <folding>
+            <marker date="1434875702988" expanded="true" signature="4581:4748" placeholder="..." />
+            <marker date="1434875702988" expanded="true" signature="9534:9578" placeholder="..." />
+            <marker date="1434875702988" expanded="false" signature="12460:12475" placeholder="..." />
+            <marker date="1434875702988" expanded="false" signature="19407:19424" placeholder="..." />
+            <marker date="1434875702988" expanded="true" signature="31421:31433" placeholder="DELETE FROM ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/mod_acymailing/mod_acymailing.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2045" max-vertical-offset="5055">
+          <caret line="316" column="28" selection-start-line="316" selection-start-column="28" selection-end-line="316" selection-end-column="28" />
+          <folding>
+            <marker date="1434875713252" expanded="false" signature="5661:5670" placeholder="..." />
+            <marker date="1434875713252" expanded="true" signature="8765:8804" placeholder="..." />
+            <marker date="1434875713252" expanded="true" signature="9235:9337" placeholder="SELECT a.id,..#__content..." />
+            <marker date="1434875713252" expanded="true" signature="9972:10041" placeholder="SELECT a.id,..#__content..." />
+            <marker date="1434875713252" expanded="true" signature="11289:11301" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configuration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="359" max-vertical-offset="990">
+          <caret line="60" column="1" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/gk_simplicity/layouts/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3222" max-vertical-offset="3870">
+          <caret line="227" column="4" selection-start-line="227" selection-start-column="4" selection-end-line="227" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_acymailing/extensions/mod_acymailing/tmpl/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1173" max-vertical-offset="3060">
+          <caret line="86" column="176" selection-start-line="86" selection-start-column="176" selection-end-line="86" selection-end-column="176" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_acymailing/extensions/mod_acymailing/tmpl/tableless.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1152" max-vertical-offset="3345">
+          <caret line="84" column="132" selection-start-line="84" selection-start-column="132" selection-end-line="84" selection-end-column="132" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/mod_acymailing/tmpl/tableless.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1135" max-vertical-offset="3345">
+          <caret line="86" column="88" selection-start-line="86" selection-start-column="88" selection-end-line="86" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/com_acymailing/js/acymailing_module.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6210">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_acymailing/extensions/plg_system_regacymailing/regacymailing.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="9565" max-vertical-offset="13470">
+          <caret line="646" column="27" selection-start-line="646" selection-start-column="27" selection-end-line="646" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configuration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="359" max-vertical-offset="990">
+          <caret line="60" column="1" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/gk_simplicity/layouts/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3870">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configuration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="359" max-vertical-offset="990">
+          <caret line="60" column="1" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_acymailing/extensions/plg_system_regacymailing/regacymailing.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="9565" max-vertical-offset="13470">
+          <caret line="646" column="27" selection-start-line="646" selection-start-column="27" selection-end-line="646" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_acymailing/extensions/mod_acymailing/tmpl/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1173" max-vertical-offset="3060">
+          <caret line="86" column="176" selection-start-line="86" selection-start-column="176" selection-end-line="86" selection-end-column="176" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_acymailing/extensions/mod_acymailing/tmpl/tableless.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1152" max-vertical-offset="3345">
+          <caret line="84" column="132" selection-start-line="84" selection-start-column="132" selection-end-line="84" selection-end-column="132" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/mod_acymailing/tmpl/tableless.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1135" max-vertical-offset="3345">
+          <caret line="86" column="88" selection-start-line="86" selection-start-column="88" selection-end-line="86" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/com_acymailing/js/acymailing_module.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.344828" vertical-offset="0" max-vertical-offset="6240">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/language/ru-RU/ru-RU.com_acymailing.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="527" max-vertical-offset="20325">
+          <caret line="43" column="18" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_acymailing/helpers/acyuser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.625" vertical-offset="180" max-vertical-offset="3525">
+          <caret line="29" column="38" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_acymailing/classes/subscriber.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2922" max-vertical-offset="8760">
+          <caret line="213" column="22" selection-start-line="213" selection-start-column="13" selection-end-line="213" selection-end-column="22" />
+          <folding>
+            <marker date="1435173599940" expanded="true" signature="-1:-1" placeholder="SELECT subid..acymailing_table_subscriber_..." />
+            <marker date="1435173599940" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..acymailing_table_subscriber_..." />
+            <marker date="1435173599940" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..acymailing_table_subscriber_..." />
+            <marker date="1435173599940" expanded="true" signature="-1:-1" placeholder="SELECT b.*, ..acymailing_table_subscriber_..." />
+            <marker date="1435173599940" expanded="true" signature="-1:-1" placeholder="SELECT a.*, ..acymailing_table_list_..." />
+            <marker date="1435173599940" expanded="true" signature="-1:-1" placeholder="SELECT statu..acymailing_table_listsub_..." />
+            <marker date="1435173599940" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..#__acymailing_subscriber..." />
+            <marker date="1435173599940" expanded="true" signature="-1:-1" placeholder="SELECT listi..#__acymailing_listsub..." />
+            <marker date="1435173599940" expanded="true" signature="-1:-1" placeholder="SELECT `list..." />
+            <marker date="1435173599940" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..acymailing_table_subscriber_..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrator/components/com_acymailing/helpers/helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="252" max-vertical-offset="14460">
+          <caret line="250" column="29" selection-start-line="250" selection-start-column="28" selection-end-line="250" selection-end-column="29" />
+          <folding>
+            <marker date="1434875702988" expanded="true" signature="4581:4748" placeholder="..." />
+            <marker date="1434875702988" expanded="true" signature="9534:9578" placeholder="..." />
+            <marker date="1434875702988" expanded="false" signature="12460:12475" placeholder="..." />
+            <marker date="1434875702988" expanded="false" signature="19407:19424" placeholder="..." />
+            <marker date="1434875702988" expanded="true" signature="31421:31433" placeholder="DELETE FROM ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/mod_acymailing/mod_acymailing.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2045" max-vertical-offset="5055">
+          <caret line="316" column="28" selection-start-line="316" selection-start-column="28" selection-end-line="316" selection-end-column="28" />
+          <folding>
+            <marker date="1434875713252" expanded="false" signature="5661:5670" placeholder="..." />
+            <marker date="1434875713252" expanded="true" signature="8765:8804" placeholder="..." />
+            <marker date="1434875713252" expanded="true" signature="9235:9337" placeholder="SELECT a.id,..#__content..." />
+            <marker date="1434875713252" expanded="true" signature="9972:10041" placeholder="SELECT a.id,..#__content..." />
+            <marker date="1434875713252" expanded="true" signature="11289:11301" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/com_acymailing/controllers/sub.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="6006" max-vertical-offset="7620">
+          <caret line="409" column="0" selection-start-line="409" selection-start-column="0" selection-end-line="409" selection-end-column="0" />
+          <folding>
+            <marker date="1435173643904" expanded="true" signature="1125:1225" placeholder="SELECT * FRO..#__modules..." />
+            <marker date="1435173643904" expanded="true" signature="10693:11219" placeholder="..." />
+            <marker date="1435173643904" expanded="true" signature="10934:10959" placeholder="{...}" />
+            <marker date="1435173643904" expanded="true" signature="11076:11134" placeholder="{...}" />
+            <marker date="1435173643904" expanded="true" signature="11170:11206" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/gk_simplicity/css/gk.stuff.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="12720">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/gk_simplicity/css/template.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="14670">
+          <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/gk_simplicity/css/tablet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3660" max-vertical-offset="5700">
+          <caret line="264" column="0" selection-start-line="264" selection-start-column="0" selection-end-line="264" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/gk_simplicity/css/small.tablet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="630" max-vertical-offset="2520">
+          <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="64" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/gk_simplicity/css/small.desktop.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/gk_simplicity/css/mobile.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.04" vertical-offset="5419" max-vertical-offset="7185">
           <caret line="378" column="14" selection-start-line="378" selection-start-column="14" selection-end-line="378" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/gk_simplicity/layouts/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5588235" vertical-offset="3360" max-vertical-offset="3870">
+          <caret line="251" column="8" selection-start-line="251" selection-start-column="8" selection-end-line="251" selection-end-column="8" />
           <folding />
         </state>
       </provider>

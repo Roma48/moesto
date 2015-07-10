@@ -246,9 +246,9 @@ JHTML::_('behavior.modal');
     </section>
     <?php endif; ?>
     
-<!--    --><?php //$this->layout->loadBlock('footer'); ?>
-<!--   		-->
-   	<?php $this->layout->loadBlock('social'); ?>
+<!--        --><?php //$this->layout->loadBlock('footer'); ?>
+<!---->
+<!--        --><?php //$this->layout->loadBlock('social'); ?>
    		
 	<jdoc:include type="modules" name="debug" />
 	<script>
