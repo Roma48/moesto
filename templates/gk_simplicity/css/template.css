@@ -204,8 +204,8 @@ body[data-layout="left"] .gkPage {
 }
 
 .imageBg #gkHeader {
-	background: #000 url('../images/header.jpg') no-repeat center 0;
-	background-attachment: fixed;
+	/*background: #000 url('../images/header.jpg') no-repeat center 0;*/
+	background: #363636;
 	border-bottom: none;
 	margin-bottom: 0;
 }

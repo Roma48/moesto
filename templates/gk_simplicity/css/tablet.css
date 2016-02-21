@@ -230,9 +230,9 @@ body .gkCols6 .box.gkmod-more.gkmod-last-5:nth-last-child(5) {
 /* Suffixes and other elements */
 
 /* Page elements */
-.imageBg #gkHeader {
-	background-image: url('../images/header_tablet.jpg');
-}
+/*.imageBg #gkHeader {*/
+	/*background-image: url('../images/header_tablet.jpg');*/
+/*}*/
 h1 {
 	font-size: 36px;
 }

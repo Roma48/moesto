@@ -821,7 +821,7 @@ img.nspImage.gkResponsive {
 }
 .gkCrop:hover {
 	background-color: #fe654c;
-	background-position: center bottom;
+	background-position: center 90%;
 }
 .gkRocket {
 	background-color: #fff;
@@ -830,7 +830,7 @@ img.nspImage.gkResponsive {
 }
 .gkRocket:hover {
 	background-color: #4c90fe;
-	background-position: center bottom;
+	background-position: center 90%;
 }
 .gkMobile {
 	background-color: #fff;
@@ -839,5 +839,5 @@ img.nspImage.gkResponsive {
 }
 .gkMobile:hover {
 	background-color: #fec54c;
-	background-position: center bottom;
+	background-position: center 90%;
 }

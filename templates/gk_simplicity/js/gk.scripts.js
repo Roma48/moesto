@@ -139,23 +139,23 @@ jQuery(window).scroll(function() {
 	// menu animation
 	
 	
-	if(page_loaded && jQuery('body').hasClass('imageBg')) {
-		// if menu is not displayed now
-		if(jQuery(window).scrollTop() > headerHeight && !jQuery('#gkMenuWrap').hasClass('active')) {
-			//document.id('gkHeaderNav').inject(document.id('gkMenuWrap'), 'inside');
-			jQuery('#gkMenuWrap').append(jQuery('#gkHeaderNav'));
-			jQuery('#gkHeader').attr('class', 'gkNoMenu');
-			// hide
-			jQuery('#gkMenuWrap').attr('class', 'active');
-		}
-		//
-		if(jQuery(window).scrollTop() <= headerHeight && jQuery('#gkMenuWrap').hasClass('active')) {
-			jQuery('#gkHeader').first('div').css('display', 'block');
-			jQuery('#gkHeader').first('div').prepend(jQuery('#gkHeaderNav'));
-			jQuery('#gkHeader').attr('class', '');
-			jQuery('#gkMenuWrap').attr('class', '');
-		}
-	}
+	//if(page_loaded && jQuery('body').hasClass('imageBg')) {
+	//	// if menu is not displayed now
+	//	if(jQuery(window).scrollTop() > headerHeight && !jQuery('#gkMenuWrap').hasClass('active')) {
+	//		//document.id('gkHeaderNav').inject(document.id('gkMenuWrap'), 'inside');
+	//		jQuery('#gkMenuWrap').append(jQuery('#gkHeaderNav'));
+	//		jQuery('#gkHeader').attr('class', 'gkNoMenu');
+	//		// hide
+	//		jQuery('#gkMenuWrap').attr('class', 'active');
+	//	}
+	//	//
+	//	if(jQuery(window).scrollTop() <= headerHeight && jQuery('#gkMenuWrap').hasClass('active')) {
+	//		jQuery('#gkHeader').first('div').css('display', 'block');
+	//		jQuery('#gkHeader').first('div').prepend(jQuery('#gkHeaderNav'));
+	//		jQuery('#gkHeader').attr('class', '');
+	//		jQuery('#gkMenuWrap').attr('class', '');
+	//	}
+	//}
 	// animate all right sliders
 	if(elementsToAnimate.length > 0) {		
 		// get the necessary values and positions

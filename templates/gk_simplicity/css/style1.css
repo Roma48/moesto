@@ -33,6 +33,7 @@ a:focus,
 	background-image: url('../images/style1/logo_white_bg.png');
 }
 .imageBg #gkLogo.cssLogo {
+	display: none;
 	background-image: url('../images/style1/logo_normal.png');
 }
 .imageBg #gkHeaderMod input[type="submit"] {
@@ -181,19 +182,22 @@ article header h2 a:hover {
 	color: #fec54c;
 }
 .gkCrop {
-	background-image: url('../images/style1/gkcrop.png');
+	background-image: url('../images/style1/1.png');
+	background-size: 100%;
 }
 .gkCrop:hover {
 	background-color: #fe654c;
 }
 .gkRocket {
-	background-image: url('../images/style1/gkrocket.png');
+	background-image: url('../images/style1/2.png');
+	background-size: 100%;
 }
 .gkRocket:hover {
 	background-color: #4c90fe;
 }
 .gkMobile {
-	background-image: url('../images/style1/gkmobile.png');
+	background-image: url('../images/style1/3.png');
+	background-size: 100%;
 }
 .gkMobile:hover {
 	background-color: #fec54c;
